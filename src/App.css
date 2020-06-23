@@ -1,0 +1,58 @@
+
+.App {
+  text-align: center;
+}
+
+.Dice {
+  display: flex;
+  flex-direction: row;
+margin: 0 40% 0 40%;
+}
+
+.Die1 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399016-84.png)  no-repeat center;
+  background-size: contain;
+}
+
+.Die2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399015-84.png)  no-repeat center;
+  background-size: contain;
+}
+
+.Die3 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399017-84.png)  no-repeat center;
+  background-size: contain;
+}
+
+.Die4 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399018-84.png)  no-repeat center;
+  background-size: contain;
+}
+
+.Die5 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399030-84.png)  no-repeat center;
+  background-size: contain;
+}
+
+.Die6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background: url(https://static.thenounproject.com/png/399031-84.png)  no-repeat center;
+  background-size: contain;
+}
